@@ -5,11 +5,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=2000&color=F77C52&center=true&vCenter=true&random=true&width=500&height=40&lines=I'm+Full-Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-В настоящее время я оттачиваю свои навыки веб-разработки и расширяю свои знания в области HTML, CSS, JavaScript и разных библиотек. Мне нравится погружаться в проекты кодирования и изучать новые методы для создания захватывающих веб-приложений.
+Full-Stack Developer with solid experience (3+ years)
+- Strong skills in Backend development (Java + Spring, Hibernate, OOP)
+- Strong skills in Frontend development (React + Next.js)
+- Strong soft skills: quick learning, teamwork, excellent communication, responsibility, insight
 
-* 🌍  I'm based in Karakol
-* 🧠  I'm learning Vue.js
-
+  
 ### Skills
 
 <p align="left">
